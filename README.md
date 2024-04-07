@@ -4,8 +4,8 @@
 
 ![Mignacco GitHub stats](https://github-readme-stats.vercel.app/api?username=mignaccojr&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mignaccojr)](https://github.com/mignaccojr/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mignaccojr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 ## Tecnologias que eu uso
 
 <div style="display: inline-block"><br/>
